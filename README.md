@@ -1,7 +1,7 @@
 # Testing Workshop
 
 👋 hi there! My name is [Kent C. Dodds](https://kentcdodds.com)! This is a
-workshop repo to teach you about testing JavaScript applications.
+workshop repo to teach you about testing JavaScript applications. 
 
 > **NOTICE**: If you're coming here from
 > [my Frontend Masters 2017 workshop](https://frontendmasters.com/courses/testing-javascript/),
